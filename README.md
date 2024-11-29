@@ -1,1 +1,1 @@
-Project for and internship
+Project for an internship assignment
